@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://www.facebook.com/smusev">
+    <img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png"/>
+  </a>
+  &emsp;
+  <a href= "https://instagram.com/smusev">
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+  </a>
+  &emsp;
+  <a href="http://t.me/smusev">
+    <img src="https://img.icons8.com/ios-filled/26/000000/sent.png"/>  
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/smusev/">
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  </a>
+  &emsp;
+  <a href="https://twitter.com/smusev">
+    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
+  </a>
+  <br><br>
+</p>
+
+
 <!--
 **smusev/smusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
