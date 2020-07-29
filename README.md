@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/smusev">
-    <img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png"/>
+    <img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" width="28px"/>
   </a>
   &emsp;
   <a href= "https://instagram.com/smusev">
