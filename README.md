@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="tel:+380673999850" title="+380673999850">
-    <img src="https://img.icons8.com/android/24/000000/phone.png"  width="28px"/>
+    <img src="https://img.icons8.com/android/24/000000/phone.png" title="+380673999850" width="28px"/>
   </a>
   &emsp;
   <a href="https://www.facebook.com/smusev">
