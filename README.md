@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm looking for Frontened Developer position. React.js. 👋
 
 <p align="center">
   <a href="tel:+380673999850" title="+380673999850">
