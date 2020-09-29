@@ -27,7 +27,13 @@
   <br><br>
 </p>
 
+<a href="https://smusev.github.io/jrankel-react/">
+  <p>Live demo E-commerce project</p>
+</a>
 
+<a href="https://smusev.github.io/react-booking/">
+  <p>Live demo Booking project</p>
+</a>
 <!--
 **smusev/smusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
