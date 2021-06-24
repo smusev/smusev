@@ -1,4 +1,4 @@
-### Hi there, i'm looking for React-Native/Node.js Fullstack of Frontened Developer position. (React.js, Angular). 👋
+### Hi there, i'm looking for React-Native/React.js/Node.js Fullstack of Frontened Developer position. 👋
 
 <p align="center">
   <a href="tel:+380673999850" title="+380673999850">
